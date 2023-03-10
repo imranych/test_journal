@@ -175,7 +175,8 @@ main {
   height: 300px;
   margin: 0 auto;
   color: white;
-  background: url("/img/hero.png") center 80% / cover no-repeat;
+  /* background: url("/img/hero.png") center 80% / cover no-repeat; */
+  background-color: rgb(174, 168, 168);
   display: flex;
   text-shadow: 1px 1px 1px black;
 }
